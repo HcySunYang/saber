@@ -28,4 +28,10 @@ Saber wouldn't be what it is today without the contributions from these awesome 
 
 ---
 
+## Sponsors
+
+[![Vercel](./website/static/img/vercel-logo.svg)](https://vercel.com?utm_source=saber)
+
+---
+
 [Licensed under MIT](./LICENSE).
