@@ -91,8 +91,6 @@ const config = {
       resolve: '../packages/saber-plugin-google-analytics',
       options: { trackId: 'UA-54857209-16' }
     },
-    { resolve: '../packages/saber-plugin-netlify-redirect' },
-    { resolve: '../packages/saber-plugin-git-modification-time' },
     { resolve: '../packages/saber-plugin-prismjs' },
     {
       resolve: '../packages/saber-plugin-pwa',
